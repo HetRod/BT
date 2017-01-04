@@ -4,9 +4,12 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/usuario1/Documents/NetBeansProjects/CrudMVC/src/vista/Fideicomiso.java</file>
+            <file>file:/C:/Users/usuario1/Documents/NetBeansProjects/CrudMVC/src/vista/Vista.java</file>
             <file>file:/C:/Users/usuario1/Documents/NetBeansProjects/CrudMVC/src/vista/Menu.java</file>
+            <file>file:/C:/Users/usuario1/Documents/NetBeansProjects/CrudMVC/src/vista/Salir.java</file>
             <file>file:/C:/Users/usuario1/Documents/NetBeansProjects/CrudMVC/src/vista/Embargo.java</file>
-            <file>file:/C:/Users/usuario1/Documents/NetBeansProjects/CrudMVC/src/vista/InterfazP.java</file>
+            <file>file:/C:/Users/usuario1/Documents/NetBeansProjects/CrudMVC/src/principal/Principal.java</file>
+            <file>file:/C:/Users/usuario1/Documents/NetBeansProjects/CrudMVC/src/vista/Salir2.java</file>
         </group>
     </open-files>
 </project-private>
