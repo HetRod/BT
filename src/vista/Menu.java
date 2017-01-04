@@ -124,13 +124,12 @@ public class Menu extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel5.setVerticalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/vista/J-00090180-5.png"))); // NOI18N
+        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagen/J-00090180-5.png")));
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel5.setVerticalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel5.setLabelFor(this);
         jLabel5.setAlignmentX(0.5F);
         jLabel5.setDebugGraphicsOptions(javax.swing.DebugGraphics.NONE_OPTION);
-        jLabel5.setDisabledIcon(null);
 
         jLabel1.setText("00/00/00");
 
@@ -379,7 +378,7 @@ public class Menu extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addContainerGap(333, Short.MAX_VALUE)
+                .addContainerGap(513, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                         .addComponent(jLabel5)
@@ -399,7 +398,7 @@ public class Menu extends javax.swing.JFrame {
                     .addComponent(jLabel2))
                 .addGap(220, 220, 220)
                 .addComponent(jLabel5)
-                .addContainerGap(207, Short.MAX_VALUE))
+                .addContainerGap(407, Short.MAX_VALUE))
         );
 
         pack();
